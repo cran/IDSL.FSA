@@ -1,4 +1,4 @@
-0085fc387fd65fb42540b399c3f92f02 *DESCRIPTION
+207696f092f531083539715718701cba *DESCRIPTION
 a5520581f0967377c999fbe2e8ecaeec *LICENSE
 16a1d2c15a8cc4039334a794b9cd3888 *NAMESPACE
 8426039343b4627ce8e87b424e2be936 *R/FSA_FSdb_xlsxAnalyzer.R
@@ -42,9 +42,9 @@ cac33b4f8ddc0b614cfdf7c603234b52 *R/spectra_integrator.R
 77257b4d860fe197a5953b26fc3edccb *R/spectral_entropy_calculator.R
 114a27b27610e3e2d3d5de5cf06a090d *R/spectral_entropy_similarity_score.R
 e67732080923320720b7a26263354a2f *R/xlsx2msp.R
-ea124a494ad7922985532ad3b308e4d5 *build/partial.rdb
+439bf689fa27cf9affd0335332142165 *build/partial.rdb
 c2a00bfe7fe6b70ed7cb8f1a1162c867 *data/stackedSpectra.rda
-06260343ed0b0e06020e1f38c0819681 *inst/CITATION
+f2fdb3a8d48fceedcf18d0aa8c39facf *inst/CITATION
 c22bd18e473682dd7bf2fc9ebc3a8756 *inst/extdata/FSA_parameters.xlsx
 a8ebee54ec5a632aab08aa5d9dc2cd6a *inst/extdata/Kynurenine_Kynurenic_acid.msp
 534d7bdac1d30100012a6a3459dcc3c0 *inst/extdata/PFAS_MSe.xlsx
